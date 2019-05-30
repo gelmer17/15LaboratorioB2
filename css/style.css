@@ -1,0 +1,36 @@
+#contenedor {
+  width: 100%;
+  height: 10px;
+  color: red;
+  background-color: red;
+  text-align: center;
+  position:absolute;top: 150px;
+}
+
+
+#contenedor .img{
+	position:absolute;top: 150px;
+	position: relative;
+	width: 100%;
+	height: 100px; 
+}
+p{
+	align-content: center;
+	width: 100%;
+	height: 100px;
+}
+p{
+	color: blue;
+	text-align: center;
+
+	width: 100%;
+	height: 10px;
+}
+#dos .img{
+	width: 10%;
+	background-position: 
+}
+.contenedor2 .img{
+	background-position: center;
+
+}
